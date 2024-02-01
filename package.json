@@ -1,0 +1,11 @@
+{
+  "name": "myvoice",
+  "version": "1.0.0",
+  "description": "sign Lang detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WC",
+  "license": "ISC"
+}
