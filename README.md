@@ -1,4 +1,4 @@
-#Checkout the site here:
+# Checkout the site here:
 # https://my-voice.vercel.app/
 
 # MyVoice: Live Sign Language Transcription Tool
