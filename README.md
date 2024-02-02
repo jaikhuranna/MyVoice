@@ -1,3 +1,6 @@
+#Checkout the site here:
+# https://my-voice.vercel.app/
+
 # MyVoice: Live Sign Language Transcription Tool
 
 MyVoice is a revolutionary tool developed using TensorFlow and Machine Learning models to facilitate live transcription of sign language into written words. Our mission is to bridge communication gaps and enhance accessibility for individuals with hearing impairments, enabling seamless interaction and inclusion.
