@@ -21,7 +21,7 @@ export default function Home(){
       <Image src={bg} className="h-screen absolute z-0"/>
       <Image src={mute} className=" z-10 mt-12 self-center w-[45rem] opacity-75" />
       <Image src={text} className="self-center absolute mt-96"/>
-      <button className="absolute z-30 bottom-80"> Get Started </button>
+      <a href="/tool" className="absolute z-30 bottom-80 self-center font-Montserrat text-3xl border-2 rounded-2xl px-16 py-3 hover:scale-110 transition-all"> Get Started </a>
       <Image src={girlleft} className="absolute bottom-0 w-[25rem] z-20 " />
       <Image src={lowerwhite} className="absolute bottom-0 z-0" />
       <Image src={boyleft} className="absolute bottom-0 w-[31rem] left-52 z-10" />

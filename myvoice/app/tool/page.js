@@ -41,7 +41,7 @@ function TeachableMachine() {
 
     const predict = async () => {
       const prediction = await model.predict(webcam.canvas);
-      for (let i = 0; i < maxPredictions; i++) {
+      for (let i = 0; i < maxPredictions-1; i++) {
         const classPrediction =
           `${prediction[i].className}: ${prediction[i].probability.toFixed(2)}`;
         labelContainer.childNodes[i].innerHTML = classPrediction;
